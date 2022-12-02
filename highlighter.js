@@ -30,7 +30,7 @@ fs.readFile(filePath, "utf8", function (err, data) {
   (async () => {
     const csv = new ObjectsToCsv(bookHighlights);
     // Save to file:
-    await csv.toDisk("./highlights.csv");
+    await csv.toDisk("./output/highlights.csv");
     // Return the CSV file as string:
     console.log("All done!");
   })();
