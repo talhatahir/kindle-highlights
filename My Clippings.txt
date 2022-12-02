@@ -1,0 +1,465 @@
+﻿Kindle User's Guide, 6th Edition (Amazon)
+- Your Highlight on page 6 | Location 61-62 | Added on Monday, July 5, 2021 9:52:59 PM
+
+Kindle does not power on or is unresponsive during use and you need to restart it, press
+==========
+﻿Kindle User's Guide, 6th Edition (Amazon)
+- Your Highlight on page 6 | Location 61-62 | Added on Monday, July 5, 2021 9:53:06 PM
+
+Kindle does not power on or is unresponsive during use and you need to restart it, press
+==========
+Book 1: Bonded Spirit (CC Rose)
+- Your Highlight on Location 91-91 | Added on Monday, July 5, 2021 11:24:36 PM
+
+palmed the wall hard; tearing the parchment away,
+==========
+Book 1: Bonded Spirit (CC Rose)
+- Your Bookmark on Location 85 | Added on Monday, July 5, 2021 11:25:32 PM
+
+
+==========
+(Programming) Addison-Wesley - The Pragmatic Programmer, from Journeyman to Master (Unknown)
+- Your Highlight on Location 236-237 | Added on Tuesday, July 6, 2021 12:30:58 AM
+
+The old IBM corporate motto, THINK!, is the Pragmatic Programmer's mantra.
+==========
+(Programming) Addison-Wesley - The Pragmatic Programmer, from Journeyman to Master (Unknown)
+- Your Highlight on Location 236-237 | Added on Tuesday, July 6, 2021 12:31:20 AM
+
+The old IBM corporate motto,
+==========
+(Programming) Addison-Wesley - The Pragmatic Programmer, from Journeyman to Master (Unknown)
+- Your Highlight on Location 236-237 | Added on Tuesday, July 6, 2021 12:31:34 AM
+
+The old IBM corporate motto, THINK!, is the Pragmatic Programmer's mantra.
+==========
+(Programming) Addison-Wesley - The Pragmatic Programmer, from Journeyman to Master (Unknown)
+- Your Note on Location 237 | Added on Tuesday, July 6, 2021 12:31:59 AM
+
+The pragmatic programmer
+==========
+(Programming) Addison-Wesley - The Pragmatic Programmer, from Journeyman to Master (Unknown)
+- Your Highlight on Location 236-237 | Added on Tuesday, July 6, 2021 12:45:33 AM
+
+The old IBM corporate motto, THINK!, is the Pragmatic Programmer's mantra.
+==========
+(Programming) Addison-Wesley - The Pragmatic Programmer, from Journeyman to Master (Unknown)
+- Your Highlight on Location 364-365 | Added on Tuesday, July 6, 2021 12:54:55 AM
+
+The greatest of all weaknesses is the fear of appearing weak.
+==========
+(Programming) Addison-Wesley - The Pragmatic Programmer, from Journeyman to Master (Unknown)
+- Your Highlight on Location 372-373 | Added on Tuesday, July 6, 2021 12:56:18 AM
+
+We can be proud of our abilities, but we must be honest about our shortcomings—our ignorance as well as our mistakes.
+==========
+(Programming) Addison-Wesley - The Pragmatic Programmer, from Journeyman to Master (Unknown)
+- Your Highlight on Location 393-394 | Added on Tuesday, July 6, 2021 12:59:24 AM
+
+Instead of excuses, provide options. Don't say it can't be done; explain what can be done to salvage the situation.
+==========
+(Programming) Addison-Wesley - The Pragmatic Programmer, from Journeyman to Master (Unknown)
+- Your Highlight on Location 463-464 | Added on Tuesday, July 6, 2021 5:38:11 PM
+
+Help strengthen your team by surveying your computing "neighborhood." Choose two or three "broken windows" and discuss with your colleagues what the problems are and what could be done to fix them.
+==========
+(Programming) Addison-Wesley - The Pragmatic Programmer, from Journeyman to Master (Unknown)
+- Your Highlight on Location 489-491 | Added on Tuesday, July 6, 2021 5:41:03 PM
+
+You may be in a situation where you know exactly what needs doing and how to do it. The entire system just appears before your eyes—you know it's right. But ask permission to tackle the whole thing and you'll be met with delays and blank stares. People will form committees, budgets will need approval, and things will get complicated.
+==========
+(Programming) Addison-Wesley - The Pragmatic Programmer, from Journeyman to Master (Unknown)
+- Your Highlight on Location 492-495 | Added on Tuesday, July 6, 2021 5:41:55 PM
+
+Work out what you can reasonably ask for. Develop it well. Once you've got it, show people, and let them marvel. Then say "of course, it would be better if we added…." Pretend it's not important. Sit back and wait for them to start asking you to add the functionality you originally wanted. People find it easier to join an ongoing success.
+==========
+(Programming) Addison-Wesley - The Pragmatic Programmer, from Journeyman to Master (Unknown)
+- Your Highlight on Location 605-606 | Added on Wednesday, July 7, 2021 2:05:26 AM
+
+Invest regularly. Just as in financial investing, you must invest in your knowledge portfolio regularly. Even if it's just a small amount, the habit itself is as important as the sums. A few sample goals are listed in the next
+==========
+(Programming) Addison-Wesley - The Pragmatic Programmer, from Journeyman to Master (Unknown)
+- Your Highlight on Location 725-725 | Added on Wednesday, July 7, 2021 2:33:01 AM
+
+
+==========
+(Programming) Addison-Wesley - The Pragmatic Programmer, from Journeyman to Master (Unknown)
+- Your Highlight on Location 860-861 | Added on Wednesday, July 7, 2021 2:38:38 AM
+
+DRY— D on't R epeat Y ourself
+==========
+(Programming) Addison-Wesley - The Pragmatic Programmer, from Journeyman to Master (Unknown)
+- Your Highlight on Location 1076-1079 | Added on Thursday, July 8, 2021 12:39:39 AM
+
+There is an easy test for orthogonal design. Once you have your components mapped out, ask yourself: If I dramatically change the requirements behind a particular function, how many modules are affected? In an orthogonal system, the answer should be "one."[3] Moving a button on a GUI panel should not require a change in the database schema. Adding context-sensitive help should not change the billing subsystem.
+==========
+(Programming) Addison-Wesley - The Pragmatic Programmer, from Journeyman to Master (Unknown)
+- Your Highlight on Location 1121-1122 | Added on Friday, July 9, 2021 12:24:34 AM
+
+Keep your code decoupled. Write shy code—modules that don't reveal anything unnecessary to other modules and that don't rely on other modules' implementations
+==========
+(Programming) Addison-Wesley - The Pragmatic Programmer, from Journeyman to Master (Unknown)
+- Your Highlight on Location 1412-1414 | Added on Saturday, July 10, 2021 5:24:10 PM
+
+What sorts of things might you choose to investigate with a prototype? Anything that carries risk. Anything that hasn't been tried before, or that is absolutely critical to the final system. Anything unproven, experimental, or doubtful.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 68-69 | Added on Saturday, July 10, 2021 10:19:15 PM
+
+Bukowski’s life embodies the American Dream: a man fights for what he wants, never gives up, and eventually achieves his wildest dreams.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 81-82 | Added on Saturday, July 10, 2021 10:30:15 PM
+
+Self-improvement and success often occur together. But that doesn’t necessarily mean they’re the same thing
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 82-83 | Added on Saturday, July 10, 2021 10:31:15 PM
+
+Our culture today is obsessively focused on unrealistically positive expectations: Be happier. Be healthier. Be the best, better than the rest
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 96-97 | Added on Saturday, July 10, 2021 10:33:28 PM
+
+no truly happy person feels the need to stand in front of a mirror and recite that she’s happy. She just is. There’s
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 96-97 | Added on Saturday, July 10, 2021 10:33:44 PM
+
+no truly happy person feels the need to stand in front of a mirror and recite that she’s happy. She just is.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 108-109 | Added on Saturday, July 10, 2021 10:35:42 PM
+
+key to a good life is not giving a fuck about more; it’s giving a fuck about less, giving a fuck about only what is true and immediate and important.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 108-109 | Added on Saturday, July 10, 2021 10:36:04 PM
+
+The key to a good life is not giving a fuck about more; it’s giving a fuck about less, giving a fuck about only what is true and immediate and important.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 114-118 | Added on Saturday, July 10, 2021 10:44:43 PM
+
+Or let’s say you have an anger problem. You get pissed off at the stupidest, most inane stuff, and you have no idea why. And the fact that you get pissed off so easily starts to piss you off even more. And then, in your petty rage, you realize that being angry all the time makes you a shallow and mean person, and you hate this; you hate it so much that you get angry at yourself. Now look at you: you’re angry at yourself getting angry about being angry. Fuck you, wall. Here, have a fist.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 156-157 | Added on Saturday, July 10, 2021 10:49:56 PM
+
+The desire for more positive experience is itself a negative experience. And, paradoxically, the acceptance of one’s negative experience is itself a positive experience.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 169-170 | Added on Saturday, July 10, 2021 10:52:59 PM
+
+“You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.”
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 190-191 | Added on Saturday, July 10, 2021 11:06:50 PM
+
+Pain is an inextricable thread in the fabric of life, and to tear it out is not only impossible, but destructive:
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 204-207 | Added on Sunday, July 11, 2021 1:37:28 AM
+
+Most of us struggle throughout our lives by giving too many fucks in situations where fucks do not deserve to be given. We give too many fucks about the rude gas station attendant who gave us our change in nickels. We give too many fucks when a show we liked was canceled on TV. We give too many fucks when our coworkers don’t bother asking us about our awesome weekend.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 368-368 | Added on Sunday, July 11, 2021 10:43:08 AM
+
+with the world, and this would be its first and central tenet
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 402-402 | Added on Sunday, July 11, 2021 10:48:11 AM
+
+Pain is what teaches us what to pay attention to when we’re young or careless.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 442-442 | Added on Sunday, July 11, 2021 11:07:48 AM
+
+True happiness occurs only when you find the problems you enjoy having and enjoy solving.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 450-452 | Added on Sunday, July 11, 2021 11:10:13 AM
+
+Victim Mentality. Some choose to believe that there is nothing they can do to solve their problems, even when they in fact could. Victims seek to blame others for their problems or blame outside circumstances. This may make them feel better in the short term,
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 450-452 | Added on Sunday, July 11, 2021 11:10:21 AM
+
+Victim Mentality. Some choose to believe that there is nothing they can do to solve their problems, even when they in fact could. Victims seek to blame others for their problems or blame outside circumstances. This
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 450-452 | Added on Sunday, July 11, 2021 11:10:27 AM
+
+Victim Mentality. Some choose to believe that there is nothing they can do to solve their problems, even when they in fact could. Victims seek to blame others for their problems or blame outside circumstances. This may make them feel better in the short term, but it leads to a life of anger, helplessness, and despair.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 478-479 | Added on Sunday, July 11, 2021 12:52:57 PM
+
+Therefore, we shouldn’t always trust our own emotions. In fact, I believe we should make a habit of questioning them.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 496-499 | Added on Sunday, July 11, 2021 12:55:41 PM
+
+This is a difficult pill to swallow. We like the idea that there’s some form of ultimate happiness that can be attained. We like the idea that we can alleviate all of our suffering permanently. We like the idea that we can feel fulfilled and satisfied with our lives forever.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 496-499 | Added on Sunday, July 11, 2021 12:55:55 PM
+
+This is a difficult pill to swallow. We like the idea that there’s some form of ultimate happiness that can be attained. We like the idea that we can alleviate all of our suffering permanently. We like the idea that we can feel fulfilled and satisfied
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 499-499 | Added on Sunday, July 11, 2021 12:56:00 PM
+
+with our lives forever. But we cannot.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 496-499 | Added on Sunday, July 11, 2021 12:56:08 PM
+
+This is a difficult pill to swallow. We like the idea that there’s some form of ultimate happiness that can be attained. We like the idea that we can alleviate all of our suffering permanently. We like the idea that we can feel fulfilled and satisfied with our lives forever. But we cannot.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 510-514 | Added on Sunday, July 11, 2021 12:58:54 PM
+
+Most people want to have great sex and an awesome relationship, but not everyone is willing to go through the tough conversations, the awkward silences, the hurt feelings, and the emotional psychodrama to get there. And so they settle. They settle and wonder, “What if?” for years and years, until the question morphs from “What if?” into “What else?” And when the lawyers go home and the alimony check is in the mail, they say, “What for?” If not for their lowered standards and expectations twenty years prior, then what
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 510-514 | Added on Sunday, July 11, 2021 12:59:03 PM
+
+Most people want to have great sex and an awesome relationship, but not everyone is willing to go through the tough conversations, the awkward silences, the hurt feelings, and the emotional psychodrama to get there. And so they settle. They settle and wonder, “What if?” for years and years, until the question morphs from “What if?” into “What else?” And when the lawyers go home and the alimony check is in the mail, they say, “What for?” If not for their lowered standards and expectations twenty years prior, then what for?
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 578-579 | Added on Sunday, July 11, 2021 2:27:06 PM
+
+like selling another person’s business idea as his own, or finagling
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 614-618 | Added on Sunday, July 11, 2021 2:38:06 PM
+
+Entitled people exude a delusional degree of self-confidence. This confidence can be alluring to others, at least for a little while. In some instances, the entitled person’s delusional level of confidence can become contagious and help the people around the entitled person feel more confident in themselves too. Despite all of Jimmy’s shenanigans, I have to admit that it was fun hanging out with him sometimes. You felt indestructible around him.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 632-634 | Added on Sunday, July 11, 2021 2:48:21 PM
+
+The true measurement of self-worth is not how a person feels about her positive experiences, but rather how she feels about her negative experiences.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 737-740 | Added on Sunday, July 11, 2021 3:24:49 PM
+
+The deeper the pain, the more helpless we feel against our problems, and the more entitlement we adopt to compensate for those problems. This entitlement plays out in one of two ways: 1. I’m awesome and the rest of you all suck, so I deserve special treatment. 2. I suck and the rest of you are all awesome, so I deserve special treatment.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 748-751 | Added on Sunday, July 11, 2021 3:26:52 PM
+
+The truth is that there’s no such thing as a personal problem. If you’ve got a problem, chances are millions of other people have had it in the past, have it now, and are going to have it in the future. Likely people you know too. That doesn’t minimize the problem or mean that it shouldn’t hurt. It doesn’t mean you aren’t legitimately a victim in some circumstances. It just means that you’re not special.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 802-804 | Added on Sunday, July 11, 2021 10:07:32 PM
+
+Technology has solved old economic problems by giving us new psychological problems. The Internet has not just open-sourced information; it has also open-sourced insecurity, self-doubt, and shame
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 821-825 | Added on Sunday, July 11, 2021 10:27:59 PM
+
+The rare people who do become truly exceptional at something do so not because they believe they’re exceptional. On the contrary, they become amazing because they’re obsessed with improvement. And that obsession with improvement stems from an unerring belief that they are, in fact, not that great at all. It’s anti-entitlement. People who become great at something become great because they understand that they’re not already great—they are mediocre, they are average—and that they could be so much better.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 912-913 | Added on Sunday, July 11, 2021 10:51:18 PM
+
+If suffering is inevitable, if our problems in life are unavoidable, then the question we should be asking is not “How do I stop suffering?” but
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 912-914 | Added on Sunday, July 11, 2021 10:51:29 PM
+
+If suffering is inevitable, if our problems in life are unavoidable, then the question we should be asking is not “How do I stop suffering?” but “Why am I suffering—for what purpose?”
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 1125-1128 | Added on Monday, July 12, 2021 12:29:18 AM
+
+This is why these values—pleasure, material success, always being right, staying positive—are poor ideals for a person’s life. Some of the greatest moments of one’s life are not pleasant, not successful, not known, and not positive.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 1139-1140 | Added on Monday, July 12, 2021 12:31:32 AM
+
+Some examples of good, healthy values: honesty, innovation, vulnerability, standing up for oneself, standing up for others, self-respect, curiosity, charity, humility, creativity.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 1141-1143 | Added on Monday, July 12, 2021 12:31:52 AM
+
+Some examples of bad, unhealthy values: dominance through manipulation or violence, indiscriminate fucking, feeling good all the time, always being the center of attention, not being alone, being liked by everybody, being rich for the sake of being rich, sacrificing small animals to the pagan gods.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 1189-1192 | Added on Monday, July 12, 2021 4:00:49 AM
+
+If you’re miserable in your current situation, chances are it’s because you feel like some part of it is outside your control—that there’s a problem you have no ability to solve, a problem that was somehow thrust upon you without your choosing. When we feel that we’re choosing our problems, we feel empowered. When we feel that our problems are being forced upon us against our will, we feel victimized and miserable.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 1233-1234 | Added on Monday, July 12, 2021 4:05:53 AM
+
+We don’t always control what happens to us. But we always control how we interpret
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 1233-1234 | Added on Monday, July 12, 2021 4:06:01 AM
+
+We don’t always control what happens to us. But we always control how we interpret what happens to us, as well as how we respond.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 1298-1302 | Added on Monday, July 12, 2021 11:44:26 PM
+
+There’s a difference between blaming someone else for your situation and that person’s actually being responsible for your situation. Nobody else is ever responsible for your situation but you. Many people may be to blame for your unhappiness, but nobody is ever responsible for your unhappiness but you. This is because you always get to choose how you see things, how you react to things, how you value things. You always get to choose the metric by which to measure your experiences. My
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 1298-1302 | Added on Monday, July 12, 2021 11:44:39 PM
+
+There’s a difference between blaming someone else for your situation and that person’s actually being responsible for your situation. Nobody else is ever responsible for your situation but you. Many people may be to blame for your unhappiness, but nobody is ever responsible for your unhappiness but you. This is because you always get to choose how you see things, how you react to things, how you value things. You always get to choose the metric by which to measure your experiences.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 1339-1342 | Added on Monday, July 12, 2021 11:55:19 PM
+
+We all love to take responsibility for success and happiness. Hell, we often fight over who gets to be responsible for success and happiness. But taking responsibility for our problems is far more important, because that’s where the real learning comes from. That’s where the real-life improvement comes from. To simply blame others is only to hurt yourself.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 1423-1426 | Added on Wednesday, July 14, 2021 2:30:37 AM
+
+see life in the same terms. We all get dealt cards. Some of us get better cards than others. And while it’s easy to get hung up on our cards, and feel we got screwed over, the real game lies in the choices we make with those cards, the risks we decide to take, and the consequences we choose to live with. People who consistently make the best choices in the situations they’re given are the ones who eventually come out ahead in poker, just as in life
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 1423-1426 | Added on Wednesday, July 14, 2021 2:30:43 AM
+
+see life in the same terms. We all get dealt cards. Some of us get better cards than others. And while it’s easy to get hung up on our cards, and feel we got screwed over, the real game lies in the choices we make with those cards, the risks we decide to take, and the consequences we choose to live with. People who consistently make the best choices in the situations they’re given are the ones who eventually come out ahead in poker, just as in life.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 1423-1426 | Added on Wednesday, July 14, 2021 2:30:48 AM
+
+see life in the same terms. We all get dealt cards. Some of us get better cards than others. And while it’s easy to get hung up on our cards, and feel we got screwed over, the real game lies in the choices we make with those cards, the risks we decide to take, and the consequences we choose to live with. People who consistently make the best choices in the situations they’re given are the ones who eventually come out ahead in poker, just as in life. And it’s not necessarily the people with the best cards.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 1423-1426 | Added on Wednesday, July 14, 2021 2:30:59 AM
+
+I see life in the same terms. We all get dealt cards. Some of us get better cards than others. And while it’s easy to get hung up on our cards, and feel we got screwed over, the real game lies in the choices we make with those cards, the risks we decide to take, and the consequences we choose to live with. People who consistently make the best choices in the situations they’re given are the ones who eventually come out ahead in poker, just as in life. And it’s not necessarily the people with the best cards.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 1480-1482 | Added on Thursday, July 15, 2021 2:52:01 AM
+
+It’s not easy because you’re going to feel like a loser, a fraud, a dumbass at first. You’re going to be nervous. You’re going to freak out. You may get pissed off at your wife or your friends or your father in the process. These are all side effects of changing your values, of changing the fucks you’re giving. But they are inevitable.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 1519-1523 | Added on Thursday, July 15, 2021 9:38:41 AM
+
+Growth is an endlessly iterative process. When we learn something new, we don’t go from “wrong” to “right.” Rather, we go from wrong to slightly less wrong. And when we learn something additional, we go from slightly less wrong to slightly less wrong than that, and then to even less wrong than that, and so on. We are always in the process of approaching truth and perfection without actually ever reaching truth or perfection.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 1556-1559 | Added on Thursday, July 15, 2021 9:45:10 AM
+
+of positive/negative experiences. All that we know for certain is what hurts in the moment and what doesn’t. And that’s not worth much. Just as we look back in horror at the lives of people five hundred years ago, I imagine people five hundred years from now will laugh at us and our certainties today. They will laugh at how
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 1758-1760 | Added on Friday, July 16, 2021 9:29:25 AM
+
+Uncertainty is the root of all progress and all growth. As the old adage goes, the man who believes he knows everything learns nothing. We cannot learn anything without first not knowing something. The more we admit we do not know, the more opportunities we gain to learn.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 1797-1797 | Added on Saturday, July 17, 2021 11:08:44 AM
+
+To give that up would be like committing psychological hara-kiri
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 1797-1797 | Added on Saturday, July 17, 2021 11:08:55 AM
+
+To give that up would be like committing psychological hara-kiri
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 1798-1799 | Added on Saturday, July 17, 2021 11:09:41 AM
+
+We all have values for ourselves. We protect these values. We try to live up to them and we justify them and maintain them. Even if we don’t mean to, that’s how our brain is wired.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 1821-1828 | Added on Saturday, July 17, 2021 11:14:08 AM
+
+There’s a kind of self-absorption that comes with fear based on an irrational certainty. When you assume that your plane is the one that’s going to crash, or that your project idea is the stupid one everyone is going to laugh at, or that you’re the one everyone is going to choose to mock or ignore, you’re implicitly telling yourself, “I’m the exception; I’m unlike everybody else; I’m different and special.” This is narcissism, pure and simple. You feel as though your problems deserve to be treated differently, that your problems have some unique math to them that doesn’t obey the laws of the physical universe. My recommendation: don’t be special; don’t be unique. Redefine your metrics in mundane and broad ways. Choose to measure yourself not as a rising star or an undiscovered genius. Choose to measure yourself not as
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 1821-1828 | Added on Saturday, July 17, 2021 11:14:12 AM
+
+There’s a kind of self-absorption that comes with fear based on an irrational certainty. When you assume that your plane is the one that’s going to crash, or that your project idea is the stupid one everyone is going to laugh at, or that you’re the one everyone is going to choose to mock or ignore, you’re implicitly telling yourself, “I’m the exception; I’m unlike everybody else; I’m different and special.” This is narcissism, pure and simple. You feel as though your problems deserve to be treated differently, that your problems have some unique math to them that doesn’t obey the laws of the physical universe. My recommendation: don’t be special; don’t be unique. Redefine your metrics in mundane and broad ways. Choose to measure yourself not as a rising star or an undiscovered genius. Choose to measure yourself not as
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 1821-1829 | Added on Saturday, July 17, 2021 11:14:21 AM
+
+There’s a kind of self-absorption that comes with fear based on an irrational certainty. When you assume that your plane is the one that’s going to crash, or that your project idea is the stupid one everyone is going to laugh at, or that you’re the one everyone is going to choose to mock or ignore, you’re implicitly telling yourself, “I’m the exception; I’m unlike everybody else; I’m different and special.” This is narcissism, pure and simple. You feel as though your problems deserve to be treated differently, that your problems have some unique math to them that doesn’t obey the laws of the physical universe. My recommendation: don’t be special; don’t be unique. Redefine your metrics in mundane and broad ways. Choose to measure yourself not as a rising star or an undiscovered genius. Choose to measure yourself not as some horrible victim or dismal failure. Instead, measure yourself by more mundane identities: a student, a partner, a friend, a creator.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 1895-1898 | Added on Tuesday, July 20, 2021 10:08:26 PM
+
+try to live with few rules, but one that I’ve adopted over the years is this: if it’s down to me being screwed up, or everybody else being screwed up, it is far, far, far more likely that I’m the one who’s screwed up. I have learned this from experience. I have been the asshole acting out based on my own insecurities and flawed certainties more times than I can count. It’s not pretty.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 1895-1898 | Added on Tuesday, July 20, 2021 10:08:33 PM
+
+first place. I try to live with few rules, but one that I’ve adopted over the years is this: if it’s down to me being screwed up, or everybody else being screwed up, it is far, far, far more likely that I’m the one who’s screwed up. I have learned this from experience. I have been the asshole acting out based on my own insecurities and flawed certainties more times than I can count. It’s not pretty.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 1895-1898 | Added on Tuesday, July 20, 2021 10:08:47 PM
+
+I try to live with few rules, but one that I’ve adopted over the years is this: if it’s down to me being screwed up, or everybody else being screwed up, it is far, far, far more likely that I’m the one who’s screwed up. I have learned this from experience. I have been the asshole acting out based on my own insecurities and flawed certainties more times than I can count. It’s not pretty.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 1995-1998 | Added on Thursday, July 22, 2021 10:59:54 PM
+
+Our most radical changes in perspective often happen at the tail end of our worst moments. It’s only when we feel intense pain that we’re willing to look at our values and question why they seem to be failing us. We need some sort of existential crisis to take an objective look at how we’ve been deriving meaning
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 1995-1998 | Added on Thursday, July 22, 2021 11:00:24 PM
+
+Our most radical changes in perspective often happen at the tail end of our worst moments. It’s only when we feel intense pain that we’re willing to look at our values and question why they seem to be failing us. We need some sort of existential crisis to take an objective look at how we’ve been deriving meaning in our life, and then consider changing course.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 2046-2047 | Added on Thursday, July 22, 2021 11:09:17 PM
+
+Learn to sustain the pain you’ve chosen. When you choose a new value, you are choosing to introduce a new form of pain into your life. Relish it. Savor it. Welcome it with open arms. Then act despite it.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 2065-2067 | Added on Friday, July 23, 2021 8:30:27 PM
+
+When I was in high school, my math teacher Mr. Packwood used to say, “If you’re stuck on a problem, don’t sit there and think about it; just start working on it. Even if you don’t know what you’re doing, the simple act of working on it will eventually cause the right ideas to show up in your head.”
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 2074-2075 | Added on Friday, July 23, 2021 8:32:30 PM
+
+Action isn’t just the effect of motivation; it’s also the cause of it.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 2167-2169 | Added on Sunday, July 25, 2021 1:22:37 AM
+
+Travel is a fantastic self-development tool, because it extricates you from the values of your culture and shows you that another society can live with entirely different values and still function and not hate themselves.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 2250-2253 | Added on Sunday, July 25, 2021 10:58:34 AM
+
+The truth is, there are healthy forms of love and unhealthy forms of love. Unhealthy love is based on two people trying to escape their problems through their emotions for each other—in other words, they’re using each other as an escape. Healthy love is based on two people acknowledging and addressing their own problems with each other’s support.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 2291-2292 | Added on Sunday, July 25, 2021 11:19:42 AM
+
+The mark of an unhealthy relationship is two people who try to solve each other’s problems in order to feel good about themselves. Rather, a healthy relationship is when two people solve their own problems in order to feel good about each other.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 2291-2294 | Added on Sunday, July 25, 2021 11:20:08 AM
+
+The mark of an unhealthy relationship is two people who try to solve each other’s problems in order to feel good about themselves. Rather, a healthy relationship is when two people solve their own problems in order to feel good about each other. The setting of proper boundaries doesn’t mean you can’t help or support your partner or be helped and supported yourself. You both should support each other. But only because you choose to support and be supported. Not because you feel obligated or entitled.
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 2326-2331 | Added on Sunday, July 25, 2021 11:25:37 AM
+
+It can be difficult for people to recognize the difference between doing something out of obligation and doing it voluntarily. So here’s a litmus test: ask yourself, “If I refused, how would the relationship change?” Similarly, ask, “If my partner refused something I wanted, how would the relationship change?” If the answer is that a refusal would cause a blowout of drama and broken china plates, then that’s a bad sign for your relationship. It suggests that your relationship is conditional—based on superficial benefits received from one another, rather than on unconditional acceptance of each other (along with each other’s problems).
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 2671-2673 | Added on Sunday, July 25, 2021 1:15:32 PM
+
+Bukowski once wrote, “We’re all going to die, all of us. What a circus! That alone should make us love each other, but it doesn’t. We are terrorized and flattened by life’s trivialities; we are eaten up by nothing.”
+==========
+The Subtle Art of Not Giving a F*ck (Mark Manson)
+- Your Highlight on Location 96-100 | Added on Sunday, July 25, 2021 2:39:14 PM
+
+no truly happy person feels the need to stand in front of a mirror and recite that she’s happy. She just is. There’s a saying in Texas: “The smallest dog barks the loudest.” A confident man doesn’t feel a need to prove that he’s confident. A rich woman doesn’t feel a need to convince anybody that she’s rich. Either you are or you are not. And if you’re dreaming of something all the time, then you’re reinforcing the same unconscious reality over and over: that you are not that.
+==========

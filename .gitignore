@@ -1,0 +1,22 @@
+# Editor folders
+.idea
+.vscode
+
+/config
+volumes
+
+.DS_Store
+.python-version
+
+# npm
+package-lock.json
+node_modules
+ngrok.log
+.editorconfig
+
+# local scripts
+nohup.out
+
+# ESLint
+.eslintcache
+
